@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShualeduriNikolozTomaradze</string>
+    <string name= "Survey">გამოკითხვა</string>
+    <string name="Question1">1.გადატანილი გაქვთ თუ არა COVID-19?</string>
+    <string name="Question2">2.ხართ თუ არა ვაქცინირებული?</string>
+    <string name="Yes">კი</string>
+    <string name="No">არა</string>
+</resources>
